@@ -16,5 +16,5 @@
 
 > So what are you waiting for? Upgrade your server now with RRuby Discord bot!
 
-`🔗` Server Link: ```https://discord.io/rruby```
-`🌞` Bot Link: ```https://discord.com/api/oauth2/authorize?client_id=1071756775642103870&permissions=8&scope=bot%20applications.commands```
+`🔗` Server Link: `https://discord.io/rruby`  
+`🌞` Bot Link: `https://discord.com/api/oauth2/authorize?client_id=1071756775642103870&permissions=8&scope=bot%20applications.commands`
