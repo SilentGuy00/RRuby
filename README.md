@@ -1,6 +1,6 @@
 # `♦️` **RRuby** `🤖`
 
-**Features:**
+**Features:**  
 ・`🤖` AI  
 ・`🚃` SR _(Selection Roles)_  
 ・`🎮` Games  
