@@ -10,6 +10,21 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+# Custom
+*.js
+**/Commands
+**/Events
+**/Functions
+**/Handlers
+**/Schemas
+**/Images
+config.json
+
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+
 # Runtime data
 pids
 *.pid
